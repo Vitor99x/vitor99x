@@ -46,5 +46,4 @@ UNIP — Universidade Paulista
 
 ## 📫 Contato
 
-- LinkedIn: [Adicionar LinkedIn]
-- GitHub: você já está aqui 😄
+- LinkedIn: [https://www.linkedin.com/in/vitor-hugo-8194b223b/]
